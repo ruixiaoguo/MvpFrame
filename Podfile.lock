@@ -1,0 +1,34 @@
+PODS:
+  - IMYWebView (0.8.1)
+  - Masonry (1.0.2)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.6)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - IMYWebView (~> 0.8.1)
+  - Masonry (~> 1.0.2)
+  - MJExtension (~> 3.0.13)
+  - MJRefresh (~> 3.1.12)
+  - SDWebImage (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IMYWebView
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  IMYWebView: a6a9a52718ba6a44fb927d65f6d60930a8218cea
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: 0efa19656679d70a0f47cbe76e56c2271fe53a97
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: cbad2112b90a14dfb734c0d4b5a26b26e6aee7d6
+
+COCOAPODS: 1.5.3
